@@ -1,0 +1,47 @@
+{
+  "souvenirs" : [ {
+    "souvenirType" : "Cup",
+    "souvenirId" : 1,
+    "souvenirName" : "Фирменная чашка",
+    "souvenirProducer" : {
+      "producerId" : 1,
+      "producerName" : "Ауди",
+      "producerCountry" : "Германия"
+    },
+    "dateOfRelease" : "25-09-2022",
+    "price" : 25
+  }, {
+    "souvenirType" : "Magnet",
+    "souvenirId" : 2,
+    "souvenirName" : "Магнит на холодильник",
+    "souvenirProducer" : {
+      "producerId" : 2,
+      "producerName" : "Приват Банк",
+      "producerCountry" : "Украина"
+    },
+    "dateOfRelease" : "12-10-2012",
+    "price" : 45
+  }, {
+    "souvenirType" : "Magnet",
+    "souvenirId" : 3,
+    "souvenirName" : "Магнит на холодильник",
+    "souvenirProducer" : {
+      "producerId" : 1,
+      "producerName" : "Ауди",
+      "producerCountry" : "Германия"
+    },
+    "dateOfRelease" : "12-10-2010",
+    "price" : 22
+  }, {
+    "souvenirType" : "Cup",
+    "souvenirId" : 4,
+    "souvenirName" : "Фирменная чашка",
+    "souvenirProducer" : {
+      "producerId" : 2,
+      "producerName" : "Приват Банк",
+      "producerCountry" : "Украина"
+    },
+    "dateOfRelease" : "01-01-2022",
+    "price" : 32
+  } ]
+}

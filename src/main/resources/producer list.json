@@ -1,0 +1,11 @@
+{
+  "producers" : [ {
+    "producerId" : 1,
+    "producerName" : "Ауди",
+    "producerCountry" : "Германия"
+  }, {
+    "producerId" : 2,
+    "producerName" : "Приват Банк",
+    "producerCountry" : "Украина"
+  } ]
+}
